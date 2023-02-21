@@ -1,0 +1,5313 @@
+{
+  "nodes": [
+  {
+    "id": "A131",
+    "title": "Mr",
+    "last": "Allin",
+    "first": "Willam",
+    "gender": "M"
+  },
+  {
+    "id": "A149",
+    "title": "Mr",
+    "last": "Anderson",
+    "first": "",
+    "gender": "M"
+  },
+  {
+    "id": "A171",
+    "title": "",
+    "last": "Armit",
+    "first": "Richer",
+    "gender": "M"
+  },
+  {
+    "id": "A189",
+    "title": "Mr",
+    "last": "Ashton",
+    "first": "",
+    "gender": "M"
+  },
+  {
+    "id": "A198",
+    "title": "",
+    "last": "Ashmaid",
+    "first": "Nicklus",
+    "gender": "M"
+  },
+  {
+    "id": "A199",
+    "title": "",
+    "last": "Ashmead",
+    "first": "Saml",
+    "gender": "M"
+  },
+  {
+    "id": "A213",
+    "title": "",
+    "last": "Asheton",
+    "first": "George",
+    "gender": "M"
+  },
+  {
+    "id": "A221",
+    "title": "Capt",
+    "last": "Attwood",
+    "first": "",
+    "gender": "M"
+  },
+  {
+    "id": "B134",
+    "title": "Dr",
+    "last": "Bard",
+    "first": "",
+    "gender": "M"
+  },
+  {
+    "id": "B212",
+    "title": "Mr",
+    "last": "Beneset",
+    "first": "",
+    "gender": "M"
+  },
+  {
+    "id": "B220",
+    "title": "",
+    "last": "Bennet",
+    "first": "",
+    "gender": "M"
+  },
+  {
+    "id": "B222",
+    "title": "Mr",
+    "last": "Bennet",
+    "first": "",
+    "gender": "M"
+  },
+  {
+    "id": "B223",
+    "title": "Mrs",
+    "last": "Bennet",
+    "first": "",
+    "gender": "F"
+  },
+  {
+    "id": "B225",
+    "title": "Ms",
+    "last": "Benet",
+    "first": "",
+    "gender": "F"
+  },
+  {
+    "id": "B243",
+    "title": "",
+    "last": "Biddle",
+    "first": "John",
+    "gender": "M"
+  },
+  {
+    "id": "B244",
+    "title": "",
+    "last": "Biddle",
+    "first": "Wm",
+    "gender": "M"
+  },
+  {
+    "id": "B305",
+    "title": "",
+    "last": "Bouldinginy",
+    "first": "Willam",
+    "gender": "M"
+  },
+  {
+    "id": "B318",
+    "title": "",
+    "last": "Bowers",
+    "first": "John",
+    "gender": "M"
+  },
+  {
+    "id": "B329",
+    "title": "",
+    "last": "Bradford",
+    "first": "Andrew",
+    "gender": "M"
+  },
+  {
+    "id": "B358",
+    "title": "Mr",
+    "last": "Bringhast",
+    "first": "",
+    "gender": "M"
+  },
+  {
+    "id": "B365",
+    "title": "",
+    "last": "Brockden",
+    "first": "Charles",
+    "gender": "M"
+  },
+  {
+    "id": "B366",
+    "title": "Mr",
+    "last": "Brockden",
+    "first": "",
+    "gender": "M"
+  },
+  {
+    "id": "B367",
+    "title": "",
+    "last": "Brockden",
+    "first": "Richd",
+    "gender": "M"
+  },
+  {
+    "id": "B387",
+    "title": "",
+    "last": "Brown",
+    "first": "Isaac",
+    "gender": "M"
+  },
+  {
+    "id": "B389",
+    "title": "",
+    "last": "Brownel",
+    "first": "Gorge",
+    "gender": "M"
+  },
+  {
+    "id": "B399",
+    "title": "",
+    "last": "Booluck",
+    "first": "Gorge",
+    "gender": "M"
+  },
+  {
+    "id": "B420",
+    "title": "",
+    "last": "Bush",
+    "first": "David",
+    "gender": "M"
+  },
+  {
+    "id": "C112",
+    "title": "",
+    "last": "Camel",
+    "first": "",
+    "gender": "M"
+  },
+  {
+    "id": "C114",
+    "title": "",
+    "last": "Camel",
+    "first": "",
+    "gender": "M"
+  },
+  {
+    "id": "C123",
+    "title": "",
+    "last": "Campbell",
+    "first": "",
+    "gender": "M"
+  },
+  {
+    "id": "C145",
+    "title": "",
+    "last": "Casel",
+    "first": "Nicklis",
+    "gender": "M"
+  },
+  {
+    "id": "C163",
+    "title": "Mr",
+    "last": "Chansallar",
+    "first": "",
+    "gender": "M"
+  },
+  {
+    "id": "C164",
+    "title": "Mrs",
+    "last": "Chandler",
+    "first": "Ann",
+    "gender": "F"
+  },
+  {
+    "id": "C183",
+    "title": "Dr",
+    "last": "Chew",
+    "first": "",
+    "gender": "M"
+  },
+  {
+    "id": "C213",
+    "title": "Mr",
+    "last": "Clifford",
+    "first": "Thos",
+    "gender": "M"
+  },
+  {
+    "id": "C244",
+    "title": "",
+    "last": "Coulman",
+    "first": "Thomas",
+    "gender": "M"
+  },
+  {
+    "id": "C261",
+    "title": "Mr",
+    "last": "Connell",
+    "first": "",
+    "gender": "M"
+  },
+  {
+    "id": "C293",
+    "title": "Mrs",
+    "last": "Coulman",
+    "first": "",
+    "gender": "F"
+  },
+  {
+    "id": "C337",
+    "title": "Mr",
+    "last": "Croker",
+    "first": "",
+    "gender": "M"
+  },
+  {
+    "id": "C352",
+    "title": "Mr",
+    "last": "Crosswaite",
+    "first": "Wm",
+    "gender": "M"
+  },
+  {
+    "id": "C359",
+    "title": "Ms",
+    "last": "Cuff",
+    "first": "",
+    "gender": "F"
+  },
+  {
+    "id": "C366",
+    "title": "Mr",
+    "last": "Cuningham",
+    "first": "",
+    "gender": "M"
+  },
+  {
+    "id": "D105",
+    "title": "Mr",
+    "last": "Dogworthey",
+    "first": "",
+    "gender": "M"
+  },
+  {
+    "id": "D119",
+    "title": "Mr",
+    "last": "Dave",
+    "first": "[Hugh]",
+    "gender": "M"
+  },
+  {
+    "id": "D142",
+    "title": "",
+    "last": "Davis",
+    "first": "Wm",
+    "gender": "M"
+  },
+  {
+    "id": "D157",
+    "title": "Junr",
+    "last": "Decow",
+    "first": "Isaac",
+    "gender": "M"
+  },
+  {
+    "id": "D183",
+    "title": "",
+    "last": "Dewes",
+    "first": "Wm",
+    "gender": "M"
+  },
+  {
+    "id": "D185",
+    "title": "Sener",
+    "last": "Dewees",
+    "first": "Wm",
+    "gender": "M"
+  },
+  {
+    "id": "D186",
+    "title": "",
+    "last": "Dewes",
+    "first": "Garit",
+    "gender": "M"
+  },
+  {
+    "id": "D187",
+    "title": "",
+    "last": "Dewees",
+    "first": "",
+    "gender": "M"
+  },
+  {
+    "id": "D254",
+    "title": "",
+    "last": "Duroll",
+    "first": "Ann",
+    "gender": "F"
+  },
+  {
+    "id": "D256",
+    "title": "",
+    "last": "The Dutchman",
+    "first": "",
+    "gender": "M"
+  },
+  {
+    "id": "E119",
+    "title": "",
+    "last": "Egell",
+    "first": "Simon",
+    "gender": "M"
+  },
+  {
+    "id": "E148",
+    "title": "",
+    "last": "Ellis",
+    "first": "Robert",
+    "gender": "M"
+  },
+  {
+    "id": "E161",
+    "title": "Mr",
+    "last": "Emerson",
+    "first": "",
+    "gender": "M"
+  },
+  {
+    "id": "E162",
+    "title": "Mr",
+    "last": "Emerson",
+    "first": "",
+    "gender": "M"
+  },
+  {
+    "id": "E178",
+    "title": "",
+    "last": "Esborn",
+    "first": "Robor",
+    "gender": "M"
+  },
+  {
+    "id": "E181",
+    "title": "",
+    "last": "Evens",
+    "first": "Calip",
+    "gender": "M"
+  },
+  {
+    "id": "E184",
+    "title": "",
+    "last": "Evans",
+    "first": "Edwd",
+    "gender": "M"
+  },
+  {
+    "id": "E186",
+    "title": "",
+    "last": "Evens",
+    "first": "Johnathan",
+    "gender": "M"
+  },
+  {
+    "id": "E187",
+    "title": "",
+    "last": "Evans",
+    "first": "Lewis",
+    "gender": "M"
+  },
+  {
+    "id": "E189",
+    "title": "Mr",
+    "last": "Evans",
+    "first": "",
+    "gender": "M"
+  },
+  {
+    "id": "E191",
+    "title": "",
+    "last": "Evans",
+    "first": "Peter",
+    "gender": "M"
+  },
+  {
+    "id": "E194",
+    "title": "Mr",
+    "last": "Evans",
+    "first": "D",
+    "gender": "M"
+  },
+  {
+    "id": "E202",
+    "title": "",
+    "last": "Evers",
+    "first": "Edward",
+    "gender": "M"
+  },
+  {
+    "id": "F120",
+    "title": "Mr",
+    "last": "Farrel",
+    "first": "",
+    "gender": "M"
+  },
+  {
+    "id": "F158",
+    "title": "",
+    "last": "Fissling",
+    "first": "Tbomas",
+    "gender": "M"
+  },
+  {
+    "id": "F238",
+    "title": "",
+    "last": "Frank's Barber",
+    "first": "",
+    "gender": "M"
+  },
+  {
+    "id": "F243",
+    "title": "Esqr",
+    "last": "French",
+    "first": "D",
+    "gender": "M"
+  },
+  {
+    "id": "F252",
+    "title": "Mr",
+    "last": "Fruin",
+    "first": "",
+    "gender": "M"
+  },
+  {
+    "id": "F258",
+    "title": "",
+    "last": "Frewin",
+    "first": "John",
+    "gender": "M"
+  },
+  {
+    "id": "F259",
+    "title": "Mr",
+    "last": "Frewin",
+    "first": "",
+    "gender": "M"
+  },
+  {
+    "id": "G120",
+    "title": "",
+    "last": "Gorge",
+    "first": "John",
+    "gender": "M"
+  },
+  {
+    "id": "G133",
+    "title": "",
+    "last": "Gillahan",
+    "first": "John",
+    "gender": "M"
+  },
+  {
+    "id": "G139",
+    "title": "",
+    "last": "Glentworth",
+    "first": "Thomas",
+    "gender": "M"
+  },
+  {
+    "id": "G141",
+    "title": "Mr",
+    "last": "Glentworth",
+    "first": "",
+    "gender": "M"
+  },
+  {
+    "id": "G153",
+    "title": "",
+    "last": "Gooding",
+    "first": "Sarah",
+    "gender": "F"
+  },
+  {
+    "id": "G158",
+    "title": "Mr",
+    "last": "Goodwin",
+    "first": "",
+    "gender": "M"
+  },
+  {
+    "id": "G173",
+    "title": "",
+    "last": "Grace",
+    "first": "Robt",
+    "gender": "M"
+  },
+  {
+    "id": "G179",
+    "title": "Mr",
+    "last": "Grafton",
+    "first": "",
+    "gender": "M"
+  },
+  {
+    "id": "G186",
+    "title": "",
+    "last": "Grainger",
+    "first": "Joshey",
+    "gender": "M"
+  },
+  {
+    "id": "G198",
+    "title": "",
+    "last": "Gray",
+    "first": "Thomas",
+    "gender": "M"
+  },
+  {
+    "id": "G216",
+    "title": "Mr",
+    "last": "Grew",
+    "first": "",
+    "gender": "M"
+  },
+  {
+    "id": "G232",
+    "title": "Esqr",
+    "last": "Grifis",
+    "first": "Thomas",
+    "gender": "M"
+  },
+  {
+    "id": "G235",
+    "title": "",
+    "last": "Griffiths",
+    "first": "Thos",
+    "gender": "M"
+  },
+  {
+    "id": "G244",
+    "title": "Mr",
+    "last": "Grinaway",
+    "first": "",
+    "gender": "M"
+  },
+  {
+    "id": "G256",
+    "title": "",
+    "last": "Growdon",
+    "first": "Jos",
+    "gender": "M"
+  },
+  {
+    "id": "G261",
+    "title": "Mr",
+    "last": "Growdon",
+    "first": "",
+    "gender": "M"
+  },
+  {
+    "id": "H105",
+    "title": "",
+    "last": "Hadwell",
+    "first": "Edward",
+    "gender": "M"
+  },
+  {
+    "id": "H107",
+    "title": "",
+    "last": "Hains",
+    "first": "John",
+    "gender": "M"
+  },
+  {
+    "id": "H108",
+    "title": "Mr",
+    "last": "Haines",
+    "first": "",
+    "gender": "M"
+  },
+  {
+    "id": "H132",
+    "title": "Mr",
+    "last": "Hamilton",
+    "first": "",
+    "gender": "M"
+  },
+  {
+    "id": "H176",
+    "title": "Mr",
+    "last": "Hart",
+    "first": "Thos",
+    "gender": "M"
+  },
+  {
+    "id": "H195",
+    "title": "",
+    "last": "Hassert",
+    "first": "Arent",
+    "gender": "M"
+  },
+  {
+    "id": "H203",
+    "title": "",
+    "last": "Hat[]",
+    "first": "Thomas",
+    "gender": "M"
+  },
+  {
+    "id": "H204",
+    "title": "Mrs",
+    "last": "Haverd",
+    "first": "",
+    "gender": "F"
+  },
+  {
+    "id": "H210",
+    "title": "Mr",
+    "last": "Haynes",
+    "first": "",
+    "gender": "M"
+  },
+  {
+    "id": "H223",
+    "title": "",
+    "last": "Heyser",
+    "first": "Derick",
+    "gender": "M"
+  },
+  {
+    "id": "H233",
+    "title": "Mr",
+    "last": "Secalis",
+    "first": "",
+    "gender": "M"
+  },
+  {
+    "id": "H248",
+    "title": "Mr",
+    "last": "Hill",
+    "first": "",
+    "gender": "M"
+  },
+  {
+    "id": "H264",
+    "title": "",
+    "last": "Hobkins",
+    "first": "Thomas",
+    "gender": "M"
+  },
+  {
+    "id": "H266",
+    "title": "Mr",
+    "last": "Hoborn",
+    "first": "J",
+    "gender": "M"
+  },
+  {
+    "id": "H280",
+    "title": "Captin",
+    "last": "Holond",
+    "first": "",
+    "gender": "M"
+  },
+  {
+    "id": "H298",
+    "title": "Mr",
+    "last": "Hood",
+    "first": "John",
+    "gender": "M"
+  },
+  {
+    "id": "H299",
+    "title": "Mr",
+    "last": "Hood",
+    "first": "",
+    "gender": "M"
+  },
+  {
+    "id": "H308",
+    "title": "",
+    "last": "Hopewell",
+    "first": "",
+    "gender": "M"
+  },
+  {
+    "id": "H313",
+    "title": "Mr",
+    "last": "Hopkinson",
+    "first": "",
+    "gender": "M"
+  },
+  {
+    "id": "H314",
+    "title": "Mr",
+    "last": "Hore",
+    "first": "",
+    "gender": "M"
+  },
+  {
+    "id": "H334",
+    "title": "",
+    "last": "Howel",
+    "first": "Richd",
+    "gender": "M"
+  },
+  {
+    "id": "I108",
+    "title": "",
+    "last": "Ingram",
+    "first": "Ann",
+    "gender": "F"
+  },
+  {
+    "id": "I112",
+    "title": "Mrs",
+    "last": "Ingram",
+    "first": "",
+    "gender": "F"
+  },
+  {
+    "id": "I118",
+    "title": "",
+    "last": "Iser",
+    "first": "Derick",
+    "gender": "M"
+  },
+  {
+    "id": "J105",
+    "title": "",
+    "last": "Jackson",
+    "first": "Joseph",
+    "gender": "M"
+  },
+  {
+    "id": "J113",
+    "title": "Esqr",
+    "last": "James",
+    "first": "James",
+    "gender": "M"
+  },
+  {
+    "id": "J133",
+    "title": "",
+    "last": "Jarmon",
+    "first": "John",
+    "gender": "M"
+  },
+  {
+    "id": "J147",
+    "title": "Mr",
+    "last": "Johnston",
+    "first": "",
+    "gender": "M"
+  },
+  {
+    "id": "J155",
+    "title": "",
+    "last": "Johnson",
+    "first": "",
+    "gender": "M"
+  },
+  {
+    "id": "J157",
+    "title": "Messrs",
+    "last": "Johnston & Montgomerie",
+    "first": "",
+    "gender": "M"
+  },
+  {
+    "id": "J165",
+    "title": "Mr",
+    "last": "Jones",
+    "first": "Danl",
+    "gender": "M"
+  },
+  {
+    "id": "J176",
+    "title": "",
+    "last": "Jones",
+    "first": "Jno",
+    "gender": "M"
+  },
+  {
+    "id": "J177",
+    "title": "Mr",
+    "last": "Jones",
+    "first": "",
+    "gender": "M"
+  },
+  {
+    "id": "J196",
+    "title": "Mr",
+    "last": "Jordan",
+    "first": "",
+    "gender": "M"
+  },
+  {
+    "id": "J200",
+    "title": "",
+    "last": "Jordan",
+    "first": "James",
+    "gender": "M"
+  },
+  {
+    "id": "K104",
+    "title": "Dr",
+    "last": "Kersley",
+    "first": "",
+    "gender": "M"
+  },
+  {
+    "id": "K115",
+    "title": "",
+    "last": "Keith",
+    "first": "Henry Elicksander",
+    "gender": "M"
+  },
+  {
+    "id": "K122",
+    "title": "",
+    "last": "Keley",
+    "first": "Danel",
+    "gender": "M"
+  },
+  {
+    "id": "K157",
+    "title": "Mr",
+    "last": "Kolp",
+    "first": "Johanos",
+    "gender": "M"
+  },
+  {
+    "id": "L103",
+    "title": "Esqr",
+    "last": "Ladd",
+    "first": "Jno",
+    "gender": "M"
+  },
+  {
+    "id": "L116",
+    "title": "",
+    "last": "Langdon",
+    "first": "John",
+    "gender": "M"
+  },
+  {
+    "id": "L134",
+    "title": "Mr",
+    "last": "Larrans",
+    "first": "",
+    "gender": "M"
+  },
+  {
+    "id": "L135",
+    "title": "",
+    "last": "Laurans",
+    "first": "Thomas",
+    "gender": "M"
+  },
+  {
+    "id": "L145",
+    "title": "",
+    "last": "Lay",
+    "first": "Bena",
+    "gender": "M"
+  },
+  {
+    "id": "L150",
+    "title": "",
+    "last": "Leanr",
+    "first": "Johnothen",
+    "gender": "M"
+  },
+  {
+    "id": "L165",
+    "title": "",
+    "last": "Leech",
+    "first": "John",
+    "gender": "M"
+  },
+  {
+    "id": "L175",
+    "title": "Mr",
+    "last": "Legey",
+    "first": "",
+    "gender": "M"
+  },
+  {
+    "id": "L176",
+    "title": "",
+    "last": "Lener",
+    "first": "Nathen",
+    "gender": "M"
+  },
+  {
+    "id": "M110",
+    "title": "Mr",
+    "last": "Mackey",
+    "first": "",
+    "gender": "M"
+  },
+  {
+    "id": "M129",
+    "title": "Capt",
+    "last": "Magee",
+    "first": "",
+    "gender": "M"
+  },
+  {
+    "id": "M152",
+    "title": "Mrs",
+    "last": "Mankin",
+    "first": "",
+    "gender": "F"
+  },
+  {
+    "id": "M162",
+    "title": "Mr",
+    "last": "Markrey",
+    "first": "",
+    "gender": "M"
+  },
+  {
+    "id": "M188",
+    "title": "Mr",
+    "last": "Matlack",
+    "first": "",
+    "gender": "M"
+  },
+  {
+    "id": "M189",
+    "title": "",
+    "last": "Matlock",
+    "first": "Timothy",
+    "gender": "M"
+  },
+  {
+    "id": "M193",
+    "title": "Mr",
+    "last": "Matckocks",
+    "first": "",
+    "gender": "M"
+  },
+  {
+    "id": "M208",
+    "title": "",
+    "last": "McCall",
+    "first": "George",
+    "gender": "M"
+  },
+  {
+    "id": "M250",
+    "title": "Mrs",
+    "last": "Meredith",
+    "first": "",
+    "gender": "F"
+  },
+  {
+    "id": "M251",
+    "title": "Widow",
+    "last": "Meredith",
+    "first": "",
+    "gender": "F"
+  },
+  {
+    "id": "M255",
+    "title": "Ms",
+    "last": "Meredy",
+    "first": "",
+    "gender": "F"
+  },
+  {
+    "id": "M267",
+    "title": "",
+    "last": "Mifflin",
+    "first": "Johnathan",
+    "gender": "M"
+  },
+  {
+    "id": "M274",
+    "title": "[Sener]",
+    "last": "Miller",
+    "first": "Elick Sander",
+    "gender": "M"
+  },
+  {
+    "id": "M288",
+    "title": "",
+    "last": "Mode",
+    "first": "Wm",
+    "gender": "M"
+  },
+  {
+    "id": "M294",
+    "title": "Mr",
+    "last": "Mogridge",
+    "first": "",
+    "gender": "M"
+  },
+  {
+    "id": "M306",
+    "title": "Messrs",
+    "last": "Montgomerie",
+    "first": "",
+    "gender": "M"
+  },
+  {
+    "id": "M308",
+    "title": "",
+    "last": "The Coach maker",
+    "first": "",
+    "gender": "M"
+  },
+  {
+    "id": "M327",
+    "title": "Mr",
+    "last": "More",
+    "first": "",
+    "gender": "M"
+  },
+  {
+    "id": "M337",
+    "title": "",
+    "last": "Morgon",
+    "first": "Even",
+    "gender": "M"
+  },
+  {
+    "id": "M338",
+    "title": "Mr",
+    "last": "Morgan",
+    "first": "Evan",
+    "gender": "M"
+  },
+  {
+    "id": "M352",
+    "title": "",
+    "last": "Morgon",
+    "first": "Willam",
+    "gender": "M"
+  },
+  {
+    "id": "M354",
+    "title": "Mr",
+    "last": "Morgon",
+    "first": "",
+    "gender": "M"
+  },
+  {
+    "id": "M358",
+    "title": "",
+    "last": "Morgan",
+    "first": "Willam",
+    "gender": "M"
+  },
+  {
+    "id": "M363",
+    "title": "Jun",
+    "last": "Morris",
+    "first": "Antoney",
+    "gender": "M"
+  },
+  {
+    "id": "M375",
+    "title": "",
+    "last": "Morris",
+    "first": "Phebe",
+    "gender": "F"
+  },
+  {
+    "id": "M391",
+    "title": "",
+    "last": "Murphy",
+    "first": "John",
+    "gender": "M"
+  },
+  {
+    "id": "M395",
+    "title": "Mr",
+    "last": "Murray",
+    "first": "David",
+    "gender": "M"
+  },
+  {
+    "id": "N104",
+    "title": "",
+    "last": "Naylor",
+    "first": "John",
+    "gender": "M"
+  },
+  {
+    "id": "N110",
+    "title": "Captin",
+    "last": "Neighhill",
+    "first": "",
+    "gender": "M"
+  },
+  {
+    "id": "N113",
+    "title": "",
+    "last": "Nelson",
+    "first": "James",
+    "gender": "M"
+  },
+  {
+    "id": "N157",
+    "title": "",
+    "last": "Norris",
+    "first": "Isack",
+    "gender": "M"
+  },
+  {
+    "id": "N166",
+    "title": "",
+    "last": "North",
+    "first": "Sarah",
+    "gender": "F"
+  },
+  {
+    "id": "O106",
+    "title": "Mr",
+    "last": "Oburn",
+    "first": "",
+    "gender": "M"
+  },
+  {
+    "id": "O120",
+    "title": "",
+    "last": "Oneail",
+    "first": "Brion",
+    "gender": "M"
+  },
+  {
+    "id": "O135",
+    "title": "",
+    "last": "Owen",
+    "first": "Owen",
+    "gender": "M"
+  },
+  {
+    "id": "P112",
+    "title": "Captin",
+    "last": "Palmer",
+    "first": "",
+    "gender": "M"
+  },
+  {
+    "id": "P126",
+    "title": "Mrs",
+    "last": "Parris",
+    "first": "",
+    "gender": "F"
+  },
+  {
+    "id": "P153",
+    "title": "",
+    "last": "Parsons",
+    "first": "Wm",
+    "gender": "M"
+  },
+  {
+    "id": "P170",
+    "title": "",
+    "last": "Poshel",
+    "first": "Benja",
+    "gender": "M"
+  },
+  {
+    "id": "P177",
+    "title": "",
+    "last": "Pasons",
+    "first": "Willam",
+    "gender": "M"
+  },
+  {
+    "id": "P198",
+    "title": "",
+    "last": "Pears",
+    "first": "Mary",
+    "gender": "F"
+  },
+  {
+    "id": "P222",
+    "title": "Esqr",
+    "last": "Penn",
+    "first": "Thomas",
+    "gender": "M"
+  },
+  {
+    "id": "P226",
+    "title": "",
+    "last": "The Hon Proprietors",
+    "first": "",
+    "gender": "M"
+  },
+  {
+    "id": "P235",
+    "title": "",
+    "last": "Perry",
+    "first": "David",
+    "gender": "M"
+  },
+  {
+    "id": "P241",
+    "title": "Esqr",
+    "last": "Peters",
+    "first": "Rich",
+    "gender": "M"
+  },
+  {
+    "id": "P282",
+    "title": "",
+    "last": "Posons",
+    "first": "Willam",
+    "gender": "M"
+  },
+  {
+    "id": "P291",
+    "title": "",
+    "last": "Potts",
+    "first": "",
+    "gender": "M"
+  },
+  {
+    "id": "P295",
+    "title": "",
+    "last": "Pottes",
+    "first": "Stephen",
+    "gender": "M"
+  },
+  {
+    "id": "P296",
+    "title": "",
+    "last": "Potts",
+    "first": "Stephen",
+    "gender": "M"
+  },
+  {
+    "id": "P308",
+    "title": "[Mrs]",
+    "last": "Prats",
+    "first": "Abram",
+    "gender": "F"
+  },
+  {
+    "id": "P311",
+    "title": "",
+    "last": "Pratt",
+    "first": "Henry",
+    "gender": "M"
+  },
+  {
+    "id": "P316",
+    "title": "",
+    "last": "Prise",
+    "first": "David",
+    "gender": "M"
+  },
+  {
+    "id": "P344",
+    "title": "",
+    "last": "Parvin",
+    "first": "Silas",
+    "gender": "M"
+  },
+  {
+    "id": "R104",
+    "title": "",
+    "last": "Rackestraw",
+    "first": "Willam",
+    "gender": "M"
+  },
+  {
+    "id": "R106",
+    "title": "",
+    "last": "Ramaga",
+    "first": "Joseph",
+    "gender": "M"
+  },
+  {
+    "id": "R128",
+    "title": "",
+    "last": "Read",
+    "first": "Sarah",
+    "gender": "M"
+  },
+  {
+    "id": "R129",
+    "title": "",
+    "last": "Read",
+    "first": "Androw",
+    "gender": "M"
+  },
+  {
+    "id": "R131",
+    "title": "",
+    "last": "Read",
+    "first": "Andrew",
+    "gender": "M"
+  },
+  {
+    "id": "R137",
+    "title": "",
+    "last": "Read",
+    "first": "James",
+    "gender": "M"
+  },
+  {
+    "id": "R141",
+    "title": "Brother",
+    "last": "Read",
+    "first": "",
+    "gender": "M"
+  },
+  {
+    "id": "R142",
+    "title": "Mr",
+    "last": "Read",
+    "first": "John",
+    "gender": "M"
+  },
+  {
+    "id": "R154",
+    "title": "Esqr",
+    "last": "Read",
+    "first": "Wm",
+    "gender": "M"
+  },
+  {
+    "id": "R158",
+    "title": "Mr",
+    "last": "Reed",
+    "first": "",
+    "gender": "M"
+  },
+  {
+    "id": "R163",
+    "title": "Mr",
+    "last": "Reddish",
+    "first": "",
+    "gender": "M"
+  },
+  {
+    "id": "H230",
+    "title": "Ms",
+    "last": "Hen[]h",
+    "first": "",
+    "gender": "F"
+  },
+  {
+    "id": "Y101",
+    "title": "",
+    "last": "Yaldall",
+    "first": "Mary",
+    "gender": "F"
+  },
+  {
+    "id": "R151",
+    "title": "Mother",
+    "last": "Read",
+    "first": "",
+    "gender": "F"
+  },
+  {
+    "id": "R164",
+    "title": "",
+    "last": "Redish",
+    "first": "Nickles",
+    "gender": "M"
+  },
+  {
+    "id": "R189",
+    "title": "Mrs",
+    "last": "Renshaw",
+    "first": "",
+    "gender": "F"
+  },
+  {
+    "id": "R203",
+    "title": "Captin",
+    "last": "Rise",
+    "first": "",
+    "gender": "M"
+  },
+  {
+    "id": "R207",
+    "title": "",
+    "last": "Richoson",
+    "first": "Elicksander",
+    "gender": "M"
+  },
+  {
+    "id": "R210",
+    "title": "",
+    "last": "Richoson",
+    "first": "Joseph",
+    "gender": "M"
+  },
+  {
+    "id": "R212",
+    "title": "",
+    "last": "Richoson",
+    "first": "Fransis",
+    "gender": "M"
+  },
+  {
+    "id": "R216",
+    "title": "",
+    "last": "Richey",
+    "first": "John",
+    "gender": "M"
+  },
+  {
+    "id": "R220",
+    "title": "",
+    "last": "Rigly",
+    "first": "John",
+    "gender": "M"
+  },
+  {
+    "id": "R230",
+    "title": "",
+    "last": "Robartes",
+    "first": "John",
+    "gender": "M"
+  },
+  {
+    "id": "R231",
+    "title": "Mister",
+    "last": "Robartes",
+    "first": "Bety",
+    "gender": "M"
+  },
+  {
+    "id": "R238",
+    "title": "",
+    "last": "Roberts",
+    "first": "Hugh",
+    "gender": "M"
+  },
+  {
+    "id": "R253",
+    "title": "",
+    "last": "Robison",
+    "first": "Septey",
+    "gender": "M"
+  },
+  {
+    "id": "R260",
+    "title": "",
+    "last": "Robison",
+    "first": "Peter",
+    "gender": "M"
+  },
+  {
+    "id": "S113",
+    "title": "",
+    "last": "Saterthwit",
+    "first": "W[]ll",
+    "gender": "M"
+  },
+  {
+    "id": "S124",
+    "title": "",
+    "last": "Scarf",
+    "first": "Timothy",
+    "gender": "M"
+  },
+  {
+    "id": "S139",
+    "title": "",
+    "last": "Schute",
+    "first": "Jacub",
+    "gender": "M"
+  },
+  {
+    "id": "S157",
+    "title": "",
+    "last": "Scuel",
+    "first": "Joseph",
+    "gender": "M"
+  },
+  {
+    "id": "S159",
+    "title": "Mrs",
+    "last": "Scull",
+    "first": "",
+    "gender": "F"
+  },
+  {
+    "id": "S168",
+    "title": "",
+    "last": "Seams",
+    "first": "Johnathan",
+    "gender": "M"
+  },
+  {
+    "id": "S177",
+    "title": "",
+    "last": "Sekler",
+    "first": "Mikel",
+    "gender": "M"
+  },
+  {
+    "id": "S206",
+    "title": "",
+    "last": "Shepherd",
+    "first": "Robt",
+    "gender": "M"
+  },
+  {
+    "id": "S216",
+    "title": "",
+    "last": "Shipen",
+    "first": "Edwor",
+    "gender": "M"
+  },
+  {
+    "id": "S222",
+    "title": "",
+    "last": "Shumaker",
+    "first": "Jacub",
+    "gender": "M"
+  },
+  {
+    "id": "S234",
+    "title": "Mr",
+    "last": "Shreeve",
+    "first": "",
+    "gender": "M"
+  },
+  {
+    "id": "S235",
+    "title": "Mrs",
+    "last": "Shreeve",
+    "first": "",
+    "gender": "F"
+  },
+  {
+    "id": "S249",
+    "title": "",
+    "last": "Shute",
+    "first": "Jacob",
+    "gender": "M"
+  },
+  {
+    "id": "S274",
+    "title": "",
+    "last": "Skirm",
+    "first": "Richd",
+    "gender": "M"
+  },
+  {
+    "id": "S282",
+    "title": "",
+    "last": "Smith",
+    "first": "Danl",
+    "gender": "M"
+  },
+  {
+    "id": "S287",
+    "title": "Mr",
+    "last": "Smith",
+    "first": "Frederick",
+    "gender": "M"
+  },
+  {
+    "id": "S289",
+    "title": "",
+    "last": "Smith",
+    "first": "Hester",
+    "gender": "F"
+  },
+  {
+    "id": "S297",
+    "title": "Mr",
+    "last": "Smith",
+    "first": "",
+    "gender": "M"
+  },
+  {
+    "id": "S305",
+    "title": "",
+    "last": "Smith",
+    "first": "Robert",
+    "gender": "M"
+  },
+  {
+    "id": "S310",
+    "title": "Mr",
+    "last": "Smith",
+    "first": "Thomas",
+    "gender": "M"
+  },
+  {
+    "id": "S316",
+    "title": "",
+    "last": "Snowdon",
+    "first": "John",
+    "gender": "M"
+  },
+  {
+    "id": "S347",
+    "title": "",
+    "last": "Sreves",
+    "first": "Thomas",
+    "gender": "M"
+  },
+  {
+    "id": "S370",
+    "title": "",
+    "last": "Stedman",
+    "first": "",
+    "gender": "M"
+  },
+  {
+    "id": "S373",
+    "title": "",
+    "last": "Steel",
+    "first": "James",
+    "gender": "M"
+  },
+  {
+    "id": "S388",
+    "title": "Mr",
+    "last": "Stephenson",
+    "first": "Thomas",
+    "gender": "M"
+  },
+  {
+    "id": "S400",
+    "title": "Mr",
+    "last": "Stillman",
+    "first": "",
+    "gender": "M"
+  },
+  {
+    "id": "S401",
+    "title": "Mr",
+    "last": "Stillman",
+    "first": "",
+    "gender": "M"
+  },
+  {
+    "id": "S404",
+    "title": "Mr",
+    "last": "Stow",
+    "first": "",
+    "gender": "M"
+  },
+  {
+    "id": "S418",
+    "title": "",
+    "last": "Sturgess",
+    "first": "Jos",
+    "gender": "M"
+  },
+  {
+    "id": "T140",
+    "title": "",
+    "last": "Thomson",
+    "first": "Edward",
+    "gender": "M"
+  },
+  {
+    "id": "T146",
+    "title": "Mr",
+    "last": "Thompson",
+    "first": "",
+    "gender": "M"
+  },
+  {
+    "id": "T154",
+    "title": "",
+    "last": "Thomson",
+    "first": "Sarah",
+    "gender": "F"
+  },
+  {
+    "id": "T173",
+    "title": "",
+    "last": "Todd",
+    "first": "John",
+    "gender": "M"
+  },
+  {
+    "id": "T180",
+    "title": "",
+    "last": "[Tophim]",
+    "first": "Christefer",
+    "gender": "M"
+  },
+  {
+    "id": "T190",
+    "title": "Mr",
+    "last": "Treat",
+    "first": "",
+    "gender": "M"
+  },
+  {
+    "id": "V107",
+    "title": "Mr",
+    "last": "Vangezel",
+    "first": "",
+    "gender": "M"
+  },
+  {
+    "id": "W113",
+    "title": "",
+    "last": "Wallis",
+    "first": "Willam",
+    "gender": "M"
+  },
+  {
+    "id": "W142",
+    "title": "",
+    "last": "Warner",
+    "first": "Swan",
+    "gender": "M"
+  },
+  {
+    "id": "W153",
+    "title": "Capt",
+    "last": "Wayne",
+    "first": "",
+    "gender": "M"
+  },
+  {
+    "id": "W160",
+    "title": "",
+    "last": "Webb",
+    "first": "Hugh",
+    "gender": "M"
+  },
+  {
+    "id": "W165",
+    "title": "Mr",
+    "last": "W[]bbe",
+    "first": "",
+    "gender": "M"
+  },
+  {
+    "id": "W172",
+    "title": "",
+    "last": "The Wever",
+    "first": "",
+    "gender": "M"
+  },
+  {
+    "id": "W214",
+    "title": "Mr",
+    "last": "Wilcox",
+    "first": "",
+    "gender": "M"
+  },
+  {
+    "id": "W215",
+    "title": "",
+    "last": "Wilcox",
+    "first": "Thos",
+    "gender": "M"
+  },
+  {
+    "id": "W221",
+    "title": "",
+    "last": "Wilkinsin",
+    "first": "Antoney",
+    "gender": "M"
+  },
+  {
+    "id": "W231",
+    "title": "Mr",
+    "last": "Wilkox",
+    "first": "",
+    "gender": "M"
+  },
+  {
+    "id": "W242",
+    "title": "",
+    "last": "Willams",
+    "first": "Oliver",
+    "gender": "M"
+  },
+  {
+    "id": "W251",
+    "title": "Mr",
+    "last": "Willing",
+    "first": "",
+    "gender": "M"
+  },
+  {
+    "id": "W268",
+    "title": "",
+    "last": "Wisher",
+    "first": "Peter",
+    "gender": "M"
+  },
+  {
+    "id": "W280",
+    "title": "Mr",
+    "last": "Woliston",
+    "first": "",
+    "gender": "M"
+  },
+  {
+    "id": "W291",
+    "title": "",
+    "last": "Woolley",
+    "first": "Edmd",
+    "gender": "M"
+  },
+  {
+    "id": "W292",
+    "title": "Mr",
+    "last": "Wooliston",
+    "first": "",
+    "gender": "M"
+  },
+  {
+    "id": "W297",
+    "title": "",
+    "last": "Wordor",
+    "first": "Richard",
+    "gender": "M"
+  },
+  {
+    "id": "W300",
+    "title": "",
+    "last": "Wornor",
+    "first": "Swan",
+    "gender": "M"
+  },
+  {
+    "id": "W301",
+    "title": "",
+    "last": "Wornor",
+    "first": "Willam",
+    "gender": "M"
+  },
+  {
+    "id": "W319",
+    "title": "Captin",
+    "last": "Wright",
+    "first": "",
+    "gender": "M"
+  },
+  {
+    "id": "Z105",
+    "title": "",
+    "last": "Singer",
+    "first": "John Peter",
+    "gender": "M"
+  },
+  {
+    "id": "B999",
+    "title": "",
+    "last": "Franklin",
+    "first": "Benjamin",
+    "gender": "M"
+  },
+  {
+    "id": "D999",
+    "title": "",
+    "last": "Reed Franklin",
+    "first": "Deborah",
+    "gender": "F"
+  },
+  {
+    "id": "M999",
+    "title": "",
+    "last": "Unknown Shopworker",
+    "first": "",
+    "gender": "M"
+  }
+],
+"links": [
+  {
+    "source": "R238",
+    "target": "M999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-102"
+  },
+  {
+    "source": "H107",
+    "target": "M999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-103"
+  },
+  {
+    "source": "M354",
+    "target": "M999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-103"
+  },
+  {
+    "source": "P241",
+    "target": "M999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-103"
+  },
+  {
+    "source": "F243",
+    "target": "M999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-104"
+  },
+  {
+    "source": "G232",
+    "target": "M999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-111"
+  },
+  {
+    "source": "L103",
+    "target": "M999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-119"
+  },
+  {
+    "source": "P296",
+    "target": "M999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-119"
+  },
+  {
+    "source": "C163",
+    "target": "M999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-123"
+  },
+  {
+    "source": "P296",
+    "target": "M999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-123"
+  },
+  {
+    "source": "P296",
+    "target": "M999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-128"
+  },
+  {
+    "source": "G158",
+    "target": "B999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-13"
+  },
+  {
+    "source": "M110",
+    "target": "B999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-13"
+  },
+  {
+    "source": "R163",
+    "target": "B999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-13"
+  },
+  {
+    "source": "T173",
+    "target": "B999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-13"
+  },
+  {
+    "source": "A131",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-13"
+  },
+  {
+    "source": "B212",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-13"
+  },
+  {
+    "source": "C183",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-13"
+  },
+  {
+    "source": "C359",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-13"
+  },
+  {
+    "source": "C359",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-13"
+  },
+  {
+    "source": "E202",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-13"
+  },
+  {
+    "source": "F120",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-13"
+  },
+  {
+    "source": "F120",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-13"
+  },
+  {
+    "source": "F259",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-13"
+  },
+  {
+    "source": "G153",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-13"
+  },
+  {
+    "source": "H105",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-13"
+  },
+  {
+    "source": "H223",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-13"
+  },
+  {
+    "source": "H233",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-13"
+  },
+  {
+    "source": "J133",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-13"
+  },
+  {
+    "source": "M193",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-13"
+  },
+  {
+    "source": "M288",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-13"
+  },
+  {
+    "source": "M308",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-13"
+  },
+  {
+    "source": "M391",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-13"
+  },
+  {
+    "source": "M391",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-13"
+  },
+  {
+    "source": "P177",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-13"
+  },
+  {
+    "source": "P198",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-13"
+  },
+  {
+    "source": "P235",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-13"
+  },
+  {
+    "source": "R158",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-13"
+  },
+  {
+    "source": "S113",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-13"
+  },
+  {
+    "source": "S139",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-13"
+  },
+  {
+    "source": "T154",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-13"
+  },
+  {
+    "source": "G216",
+    "target": "M999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-131"
+  },
+  {
+    "source": "D183",
+    "target": "M999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-134"
+  },
+  {
+    "source": "F120",
+    "target": "M999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-134"
+  },
+  {
+    "source": "B358",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-14"
+  },
+  {
+    "source": "C164",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-14"
+  },
+  {
+    "source": "C183",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-14"
+  },
+  {
+    "source": "F120",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-14"
+  },
+  {
+    "source": "G179",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-14"
+  },
+  {
+    "source": "G179",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-14"
+  },
+  {
+    "source": "G186",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-14"
+  },
+  {
+    "source": "H233",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-14"
+  },
+  {
+    "source": "H266",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-14"
+  },
+  {
+    "source": "J105",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-14"
+  },
+  {
+    "source": "J113",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-14"
+  },
+  {
+    "source": "J200",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-14"
+  },
+  {
+    "source": "M193",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-14"
+  },
+  {
+    "source": "M288",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-14"
+  },
+  {
+    "source": "P344",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-14"
+  },
+  {
+    "source": "R154",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-14"
+  },
+  {
+    "source": "R154",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-14"
+  },
+  {
+    "source": "R163",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-14"
+  },
+  {
+    "source": "S168",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-14"
+  },
+  {
+    "source": "S168",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-14"
+  },
+  {
+    "source": "S305",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-14"
+  },
+  {
+    "source": "S310",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-14"
+  },
+  {
+    "source": "T180",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-14"
+  },
+  {
+    "source": "W113",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-14"
+  },
+  {
+    "source": "W113",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-14"
+  },
+  {
+    "source": "W113",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-14"
+  },
+  {
+    "source": "W113",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-14"
+  },
+  {
+    "source": "W113",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-14"
+  },
+  {
+    "source": "W113",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-14"
+  },
+  {
+    "source": "W113",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-14"
+  },
+  {
+    "source": "W113",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-14"
+  },
+  {
+    "source": "W113",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-14"
+  },
+  {
+    "source": "W113",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-14"
+  },
+  {
+    "source": "W268",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-14"
+  },
+  {
+    "source": "W301",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-14"
+  },
+  {
+    "source": "P296",
+    "target": "M999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-154"
+  },
+  {
+    "source": "H233",
+    "target": "M999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-157"
+  },
+  {
+    "source": "F120",
+    "target": "M999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-158"
+  },
+  {
+    "source": "H298",
+    "target": "B999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-16"
+  },
+  {
+    "source": "H313",
+    "target": "B999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-16"
+  },
+  {
+    "source": "P311",
+    "target": "B999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-16"
+  },
+  {
+    "source": "R142",
+    "target": "B999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-16"
+  },
+  {
+    "source": "S234",
+    "target": "B999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-16"
+  },
+  {
+    "source": "S297",
+    "target": "B999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-16"
+  },
+  {
+    "source": "A198",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-16"
+  },
+  {
+    "source": "D105",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-16"
+  },
+  {
+    "source": "D254",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-16"
+  },
+  {
+    "source": "F120",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-16"
+  },
+  {
+    "source": "F158",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-16"
+  },
+  {
+    "source": "J147",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-16"
+  },
+  {
+    "source": "L134",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-16"
+  },
+  {
+    "source": "M152",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-16"
+  },
+  {
+    "source": "M267",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-16"
+  },
+  {
+    "source": "M288",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-16"
+  },
+  {
+    "source": "M363",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-16"
+  },
+  {
+    "source": "N157",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-16"
+  },
+  {
+    "source": "P177",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-16"
+  },
+  {
+    "source": "P198",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-16"
+  },
+  {
+    "source": "P222",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-16"
+  },
+  {
+    "source": "P282",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-16"
+  },
+  {
+    "source": "R129",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-16"
+  },
+  {
+    "source": "R231",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-16"
+  },
+  {
+    "source": "S249",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-16"
+  },
+  {
+    "source": "S316",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-16"
+  },
+  {
+    "source": "W292",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-16"
+  },
+  {
+    "source": "W300",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-16"
+  },
+  {
+    "source": "W319",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-16"
+  },
+  {
+    "source": "Z105",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-16"
+  },
+  {
+    "source": "D119",
+    "target": "M999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-160"
+  },
+  {
+    "source": "G173",
+    "target": "M999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-166"
+  },
+  {
+    "source": "R128",
+    "target": "M999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-166"
+  },
+  {
+    "source": "R137",
+    "target": "M999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-166"
+  },
+  {
+    "source": "W165",
+    "target": "M999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-167"
+  },
+  {
+    "source": "C164",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-17"
+  },
+  {
+    "source": "C183",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-17"
+  },
+  {
+    "source": "C352",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-17"
+  },
+  {
+    "source": "C352",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-17"
+  },
+  {
+    "source": "C352",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-17"
+  },
+  {
+    "source": "E186",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-17"
+  },
+  {
+    "source": "F120",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-17"
+  },
+  {
+    "source": "G179",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-17"
+  },
+  {
+    "source": "G186",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-17"
+  },
+  {
+    "source": "G186",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-17"
+  },
+  {
+    "source": "G198",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-17"
+  },
+  {
+    "source": "H264",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-17"
+  },
+  {
+    "source": "H298",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-17"
+  },
+  {
+    "source": "H298",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-17"
+  },
+  {
+    "source": "J200",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-17"
+  },
+  {
+    "source": "L134",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-17"
+  },
+  {
+    "source": "L145",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-17"
+  },
+  {
+    "source": "M274",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-17"
+  },
+  {
+    "source": "M352",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-17"
+  },
+  {
+    "source": "P112",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-17"
+  },
+  {
+    "source": "P282",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-17"
+  },
+  {
+    "source": "P282",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-17"
+  },
+  {
+    "source": "P311",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-17"
+  },
+  {
+    "source": "R163",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-17"
+  },
+  {
+    "source": "R164",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-17"
+  },
+  {
+    "source": "R210",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-17"
+  },
+  {
+    "source": "R210",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-17"
+  },
+  {
+    "source": "S310",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-17"
+  },
+  {
+    "source": "S347",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-17"
+  },
+  {
+    "source": "W113",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-17"
+  },
+  {
+    "source": "W172",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-17"
+  },
+  {
+    "source": "W268",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-17"
+  },
+  {
+    "source": "E191",
+    "target": "B999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-18"
+  },
+  {
+    "source": "B212",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-18"
+  },
+  {
+    "source": "B329",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-18"
+  },
+  {
+    "source": "C183",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-18"
+  },
+  {
+    "source": "C261",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-18"
+  },
+  {
+    "source": "C293",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-18"
+  },
+  {
+    "source": "E119",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-18"
+  },
+  {
+    "source": "E162",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-18"
+  },
+  {
+    "source": "F120",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-18"
+  },
+  {
+    "source": "F252",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-18"
+  },
+  {
+    "source": "F258",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-18"
+  },
+  {
+    "source": "F258",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-18"
+  },
+  {
+    "source": "H233",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-18"
+  },
+  {
+    "source": "H248",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-18"
+  },
+  {
+    "source": "H280",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-18"
+  },
+  {
+    "source": "L175",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-18"
+  },
+  {
+    "source": "M110",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-18"
+  },
+  {
+    "source": "M193",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-18"
+  },
+  {
+    "source": "O120",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-18"
+  },
+  {
+    "source": "P170",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-18"
+  },
+  {
+    "source": "P296",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-18"
+  },
+  {
+    "source": "P296",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-18"
+  },
+  {
+    "source": "R163",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-18"
+  },
+  {
+    "source": "S249",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-18"
+  },
+  {
+    "source": "S400",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-18"
+  },
+  {
+    "source": "W113",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-18"
+  },
+  {
+    "source": "W113",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-18"
+  },
+  {
+    "source": "W113",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-18"
+  },
+  {
+    "source": "W113",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-18"
+  },
+  {
+    "source": "W113",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-18"
+  },
+  {
+    "source": "W280",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-18"
+  },
+  {
+    "source": "D183",
+    "target": "M999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-181"
+  },
+  {
+    "source": "G244",
+    "target": "M999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-181"
+  },
+  {
+    "source": "S249",
+    "target": "M999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-181"
+  },
+  {
+    "source": "S287",
+    "target": "M999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-181"
+  },
+  {
+    "source": "A221",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-19"
+  },
+  {
+    "source": "C164",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-19"
+  },
+  {
+    "source": "C164",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-19"
+  },
+  {
+    "source": "C183",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-19"
+  },
+  {
+    "source": "C244",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-19"
+  },
+  {
+    "source": "C293",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-19"
+  },
+  {
+    "source": "C337",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-19"
+  },
+  {
+    "source": "C352",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-19"
+  },
+  {
+    "source": "C359",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-19"
+  },
+  {
+    "source": "D187",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-19"
+  },
+  {
+    "source": "H248",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-19"
+  },
+  {
+    "source": "J133",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-19"
+  },
+  {
+    "source": "J177",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-19"
+  },
+  {
+    "source": "K104",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-19"
+  },
+  {
+    "source": "L145",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-19"
+  },
+  {
+    "source": "L165",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-19"
+  },
+  {
+    "source": "N110",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-19"
+  },
+  {
+    "source": "N110",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-19"
+  },
+  {
+    "source": "P295",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-19"
+  },
+  {
+    "source": "P296",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-19"
+  },
+  {
+    "source": "P296",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-19"
+  },
+  {
+    "source": "P296",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-19"
+  },
+  {
+    "source": "R163",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-19"
+  },
+  {
+    "source": "S124",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-19"
+  },
+  {
+    "source": "S282",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-19"
+  },
+  {
+    "source": "S347",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-19"
+  },
+  {
+    "source": "W221",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-19"
+  },
+  {
+    "source": "W297",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-19"
+  },
+  {
+    "source": "B389",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-20"
+  },
+  {
+    "source": "C183",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-20"
+  },
+  {
+    "source": "C183",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-20"
+  },
+  {
+    "source": "C352",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-20"
+  },
+  {
+    "source": "E161",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-20"
+  },
+  {
+    "source": "F258",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-20"
+  },
+  {
+    "source": "F258",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-20"
+  },
+  {
+    "source": "G133",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-20"
+  },
+  {
+    "source": "G261",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-20"
+  },
+  {
+    "source": "H308",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-20"
+  },
+  {
+    "source": "H314",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-20"
+  },
+  {
+    "source": "M363",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-20"
+  },
+  {
+    "source": "O135",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-20"
+  },
+  {
+    "source": "P177",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-20"
+  },
+  {
+    "source": "P296",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-20"
+  },
+  {
+    "source": "R106",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-20"
+  },
+  {
+    "source": "R158",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-20"
+  },
+  {
+    "source": "R230",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-20"
+  },
+  {
+    "source": "S249",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-20"
+  },
+  {
+    "source": "S289",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-20"
+  },
+  {
+    "source": "S289",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-20"
+  },
+  {
+    "source": "S373",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-20"
+  },
+  {
+    "source": "S373",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-20"
+  },
+  {
+    "source": "S401",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-20"
+  },
+  {
+    "source": "S401",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-20"
+  },
+  {
+    "source": "W301",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-20"
+  },
+  {
+    "source": "H266",
+    "target": "B999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-23"
+  },
+  {
+    "source": "J196",
+    "target": "B999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-23"
+  },
+  {
+    "source": "J196",
+    "target": "B999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-23"
+  },
+  {
+    "source": "B212",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-23"
+  },
+  {
+    "source": "C293",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-23"
+  },
+  {
+    "source": "C337",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-23"
+  },
+  {
+    "source": "C337",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-23"
+  },
+  {
+    "source": "D187",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-23"
+  },
+  {
+    "source": "G153",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-23"
+  },
+  {
+    "source": "G261",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-23"
+  },
+  {
+    "source": "H107",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-23"
+  },
+  {
+    "source": "J176",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-23"
+  },
+  {
+    "source": "M162",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-23"
+  },
+  {
+    "source": "M255",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-23"
+  },
+  {
+    "source": "M267",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-23"
+  },
+  {
+    "source": "P126",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-23"
+  },
+  {
+    "source": "P177",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-23"
+  },
+  {
+    "source": "R163",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-23"
+  },
+  {
+    "source": "S249",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-23"
+  },
+  {
+    "source": "S289",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-23"
+  },
+  {
+    "source": "W300",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-23"
+  },
+  {
+    "source": "R189",
+    "target": "B999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-24"
+  },
+  {
+    "source": "S235",
+    "target": "B999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-24"
+  },
+  {
+    "source": "S235",
+    "target": "B999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-24"
+  },
+  {
+    "source": "T146",
+    "target": "B999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-24"
+  },
+  {
+    "source": "T146",
+    "target": "B999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-24"
+  },
+  {
+    "source": "W142",
+    "target": "B999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-24"
+  },
+  {
+    "source": "A131",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-24"
+  },
+  {
+    "source": "B220",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-24"
+  },
+  {
+    "source": "B223",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-24"
+  },
+  {
+    "source": "B225",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-24"
+  },
+  {
+    "source": "B225",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-24"
+  },
+  {
+    "source": "C114",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-24"
+  },
+  {
+    "source": "E181",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-24"
+  },
+  {
+    "source": "F120",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-24"
+  },
+  {
+    "source": "F120",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-24"
+  },
+  {
+    "source": "I108",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-24"
+  },
+  {
+    "source": "I108",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-24"
+  },
+  {
+    "source": "L134",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-24"
+  },
+  {
+    "source": "L145",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-24"
+  },
+  {
+    "source": "L165",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-24"
+  },
+  {
+    "source": "M352",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-24"
+  },
+  {
+    "source": "M363",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-24"
+  },
+  {
+    "source": "P296",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-24"
+  },
+  {
+    "source": "P296",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-24"
+  },
+  {
+    "source": "R141",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-24"
+  },
+  {
+    "source": "R141",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-24"
+  },
+  {
+    "source": "R142",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-24"
+  },
+  {
+    "source": "R142",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-24"
+  },
+  {
+    "source": "R142",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-24"
+  },
+  {
+    "source": "R158",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-24"
+  },
+  {
+    "source": "S289",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-24"
+  },
+  {
+    "source": "W300",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-24"
+  },
+  {
+    "source": "G141",
+    "target": "B999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-25"
+  },
+  {
+    "source": "S373",
+    "target": "B999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-25"
+  },
+  {
+    "source": "B223",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-25"
+  },
+  {
+    "source": "B225",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-25"
+  },
+  {
+    "source": "B225",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-25"
+  },
+  {
+    "source": "B225",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-25"
+  },
+  {
+    "source": "B225",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-25"
+  },
+  {
+    "source": "B225",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-25"
+  },
+  {
+    "source": "B389",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-25"
+  },
+  {
+    "source": "C145",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-25"
+  },
+  {
+    "source": "C164",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-25"
+  },
+  {
+    "source": "C183",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-25"
+  },
+  {
+    "source": "C337",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-25"
+  },
+  {
+    "source": "C352",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-25"
+  },
+  {
+    "source": "C352",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-25"
+  },
+  {
+    "source": "D183",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-25"
+  },
+  {
+    "source": "G139",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-25"
+  },
+  {
+    "source": "J200",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-25"
+  },
+  {
+    "source": "K122",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-25"
+  },
+  {
+    "source": "L145",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-25"
+  },
+  {
+    "source": "P296",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-25"
+  },
+  {
+    "source": "P344",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-25"
+  },
+  {
+    "source": "R104",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-25"
+  },
+  {
+    "source": "R212",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-25"
+  },
+  {
+    "source": "W142",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-25"
+  },
+  {
+    "source": "W300",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-25"
+  },
+  {
+    "source": "W300",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-25"
+  },
+  {
+    "source": "C164",
+    "target": "B999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-26"
+  },
+  {
+    "source": "C352",
+    "target": "B999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-26"
+  },
+  {
+    "source": "I112",
+    "target": "B999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-26"
+  },
+  {
+    "source": "M189",
+    "target": "B999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-26"
+  },
+  {
+    "source": "P296",
+    "target": "B999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-26"
+  },
+  {
+    "source": "B223",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-26"
+  },
+  {
+    "source": "B225",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-26"
+  },
+  {
+    "source": "B225",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-26"
+  },
+  {
+    "source": "B225",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-26"
+  },
+  {
+    "source": "B225",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-26"
+  },
+  {
+    "source": "B225",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-26"
+  },
+  {
+    "source": "B225",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-26"
+  },
+  {
+    "source": "C164",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-26"
+  },
+  {
+    "source": "C183",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-26"
+  },
+  {
+    "source": "C337",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-26"
+  },
+  {
+    "source": "C366",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-26"
+  },
+  {
+    "source": "D187",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-26"
+  },
+  {
+    "source": "E191",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-26"
+  },
+  {
+    "source": "F120",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-26"
+  },
+  {
+    "source": "H203",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-26"
+  },
+  {
+    "source": "L150",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-26"
+  },
+  {
+    "source": "M294",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-26"
+  },
+  {
+    "source": "M294",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-26"
+  },
+  {
+    "source": "M337",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-26"
+  },
+  {
+    "source": "M352",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-26"
+  },
+  {
+    "source": "P177",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-26"
+  },
+  {
+    "source": "R220",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-26"
+  },
+  {
+    "source": "R253",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-26"
+  },
+  {
+    "source": "R260",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-26"
+  },
+  {
+    "source": "S222",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-26"
+  },
+  {
+    "source": "W142",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-26"
+  },
+  {
+    "source": "W242",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-26"
+  },
+  {
+    "source": "B225",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-27"
+  },
+  {
+    "source": "B225",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-27"
+  },
+  {
+    "source": "B225",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-27"
+  },
+  {
+    "source": "B225",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-27"
+  },
+  {
+    "source": "C112",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-27"
+  },
+  {
+    "source": "C164",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-27"
+  },
+  {
+    "source": "C164",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-27"
+  },
+  {
+    "source": "C183",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-27"
+  },
+  {
+    "source": "C352",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-27"
+  },
+  {
+    "source": "C352",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-27"
+  },
+  {
+    "source": "D142",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-27"
+  },
+  {
+    "source": "D142",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-27"
+  },
+  {
+    "source": "D142",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-27"
+  },
+  {
+    "source": "E119",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-27"
+  },
+  {
+    "source": "F120",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-27"
+  },
+  {
+    "source": "F120",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-27"
+  },
+  {
+    "source": "H233",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-27"
+  },
+  {
+    "source": "P112",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-27"
+  },
+  {
+    "source": "P177",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-27"
+  },
+  {
+    "source": "P177",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-27"
+  },
+  {
+    "source": "P222",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-27"
+  },
+  {
+    "source": "P296",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-27"
+  },
+  {
+    "source": "P296",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-27"
+  },
+  {
+    "source": "P296",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-27"
+  },
+  {
+    "source": "P296",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-27"
+  },
+  {
+    "source": "P296",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-27"
+  },
+  {
+    "source": "P296",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-27"
+  },
+  {
+    "source": "S222",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-27"
+  },
+  {
+    "source": "S249",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-27"
+  },
+  {
+    "source": "S249",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-27"
+  },
+  {
+    "source": "S388",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-27"
+  },
+  {
+    "source": "W300",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-27"
+  },
+  {
+    "source": "W300",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-27"
+  },
+  {
+    "source": "W300",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-27"
+  },
+  {
+    "source": "O106",
+    "target": "B999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-28"
+  },
+  {
+    "source": "B134",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-28"
+  },
+  {
+    "source": "B225",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-28"
+  },
+  {
+    "source": "B225",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-28"
+  },
+  {
+    "source": "B399",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-28"
+  },
+  {
+    "source": "C337",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-28"
+  },
+  {
+    "source": "C352",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-28"
+  },
+  {
+    "source": "D142",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-28"
+  },
+  {
+    "source": "F252",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-28"
+  },
+  {
+    "source": "F252",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-28"
+  },
+  {
+    "source": "G139",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-28"
+  },
+  {
+    "source": "H233",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-28"
+  },
+  {
+    "source": "J200",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-28"
+  },
+  {
+    "source": "K104",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-28"
+  },
+  {
+    "source": "K157",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-28"
+  },
+  {
+    "source": "L135",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-28"
+  },
+  {
+    "source": "L176",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-28"
+  },
+  {
+    "source": "M327",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-28"
+  },
+  {
+    "source": "M327",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-28"
+  },
+  {
+    "source": "M352",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-28"
+  },
+  {
+    "source": "M358",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-28"
+  },
+  {
+    "source": "O120",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-28"
+  },
+  {
+    "source": "P177",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-28"
+  },
+  {
+    "source": "P282",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-28"
+  },
+  {
+    "source": "P296",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-28"
+  },
+  {
+    "source": "P296",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-28"
+  },
+  {
+    "source": "P296",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-28"
+  },
+  {
+    "source": "P296",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-28"
+  },
+  {
+    "source": "P296",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-28"
+  },
+  {
+    "source": "P316",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-28"
+  },
+  {
+    "source": "R131",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-28"
+  },
+  {
+    "source": "R164",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-28"
+  },
+  {
+    "source": "W268",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-28"
+  },
+  {
+    "source": "W280",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-28"
+  },
+  {
+    "source": "A221",
+    "target": "B999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-29"
+  },
+  {
+    "source": "B243",
+    "target": "B999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-29"
+  },
+  {
+    "source": "B244",
+    "target": "B999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-29"
+  },
+  {
+    "source": "B365",
+    "target": "B999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-29"
+  },
+  {
+    "source": "B365",
+    "target": "B999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-29"
+  },
+  {
+    "source": "B365",
+    "target": "B999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-29"
+  },
+  {
+    "source": "B365",
+    "target": "B999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-29"
+  },
+  {
+    "source": "B365",
+    "target": "B999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-29"
+  },
+  {
+    "source": "B367",
+    "target": "B999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-29"
+  },
+  {
+    "source": "B387",
+    "target": "B999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-29"
+  },
+  {
+    "source": "B387",
+    "target": "B999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-29"
+  },
+  {
+    "source": "C123",
+    "target": "B999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-29"
+  },
+  {
+    "source": "D142",
+    "target": "B999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-29"
+  },
+  {
+    "source": "F238",
+    "target": "B999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-29"
+  },
+  {
+    "source": "H132",
+    "target": "B999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-29"
+  },
+  {
+    "source": "J196",
+    "target": "B999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-29"
+  },
+  {
+    "source": "P296",
+    "target": "B999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-29"
+  },
+  {
+    "source": "W142",
+    "target": "B999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-29"
+  },
+  {
+    "source": "W142",
+    "target": "B999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-29"
+  },
+  {
+    "source": "W142",
+    "target": "B999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-29"
+  },
+  {
+    "source": "W231",
+    "target": "B999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-29"
+  },
+  {
+    "source": "W251",
+    "target": "B999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-29"
+  },
+  {
+    "source": "F120",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-29"
+  },
+  {
+    "source": "P296",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-29"
+  },
+  {
+    "source": "R207",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-29"
+  },
+  {
+    "source": "B225",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-30"
+  },
+  {
+    "source": "B243",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-30"
+  },
+  {
+    "source": "B243",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-30"
+  },
+  {
+    "source": "B305",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-30"
+  },
+  {
+    "source": "C183",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-30"
+  },
+  {
+    "source": "D142",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-30"
+  },
+  {
+    "source": "D186",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-30"
+  },
+  {
+    "source": "D187",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-30"
+  },
+  {
+    "source": "D187",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-30"
+  },
+  {
+    "source": "D187",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-30"
+  },
+  {
+    "source": "E178",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-30"
+  },
+  {
+    "source": "I118",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-30"
+  },
+  {
+    "source": "J147",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-30"
+  },
+  {
+    "source": "J155",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-30"
+  },
+  {
+    "source": "J177",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-30"
+  },
+  {
+    "source": "P177",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-30"
+  },
+  {
+    "source": "P177",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-30"
+  },
+  {
+    "source": "P282",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-30"
+  },
+  {
+    "source": "P344",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-30"
+  },
+  {
+    "source": "R141",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-30"
+  },
+  {
+    "source": "R203",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-30"
+  },
+  {
+    "source": "S157",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-30"
+  },
+  {
+    "source": "S249",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-30"
+  },
+  {
+    "source": "T140",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-30"
+  },
+  {
+    "source": "W221",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-30"
+  },
+  {
+    "source": "W251",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-30"
+  },
+  {
+    "source": "D183",
+    "target": "B999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-31"
+  },
+  {
+    "source": "H176",
+    "target": "B999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-31"
+  },
+  {
+    "source": "H176",
+    "target": "B999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-31"
+  },
+  {
+    "source": "H176",
+    "target": "B999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-31"
+  },
+  {
+    "source": "M288",
+    "target": "B999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-31"
+  },
+  {
+    "source": "M338",
+    "target": "B999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-31"
+  },
+  {
+    "source": "V107",
+    "target": "B999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-31"
+  },
+  {
+    "source": "A198",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-31"
+  },
+  {
+    "source": "D187",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-31"
+  },
+  {
+    "source": "D187",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-31"
+  },
+  {
+    "source": "D256",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-31"
+  },
+  {
+    "source": "F120",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-31"
+  },
+  {
+    "source": "F258",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-31"
+  },
+  {
+    "source": "K115",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-31"
+  },
+  {
+    "source": "M363",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-31"
+  },
+  {
+    "source": "N104",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-31"
+  },
+  {
+    "source": "P177",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-31"
+  },
+  {
+    "source": "P282",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-31"
+  },
+  {
+    "source": "P282",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-31"
+  },
+  {
+    "source": "P296",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-31"
+  },
+  {
+    "source": "P308",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-31"
+  },
+  {
+    "source": "T154",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-31"
+  },
+  {
+    "source": "W251",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-31"
+  },
+  {
+    "source": "W268",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-31"
+  },
+  {
+    "source": "W142",
+    "target": "M999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-31"
+  },
+  {
+    "source": "B222",
+    "target": "B999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-32"
+  },
+  {
+    "source": "B222",
+    "target": "B999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-32"
+  },
+  {
+    "source": "C352",
+    "target": "B999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-32"
+  },
+  {
+    "source": "D142",
+    "target": "B999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-32"
+  },
+  {
+    "source": "P226",
+    "target": "B999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-32"
+  },
+  {
+    "source": "P226",
+    "target": "B999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-32"
+  },
+  {
+    "source": "B225",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-32"
+  },
+  {
+    "source": "B225",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-32"
+  },
+  {
+    "source": "B318",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-32"
+  },
+  {
+    "source": "C183",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-32"
+  },
+  {
+    "source": "E191",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-32"
+  },
+  {
+    "source": "G120",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-32"
+  },
+  {
+    "source": "G139",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-32"
+  },
+  {
+    "source": "G235",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-32"
+  },
+  {
+    "source": "L116",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-32"
+  },
+  {
+    "source": "M110",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-32"
+  },
+  {
+    "source": "M110",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-32"
+  },
+  {
+    "source": "M363",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-32"
+  },
+  {
+    "source": "M363",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-32"
+  },
+  {
+    "source": "M363",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-32"
+  },
+  {
+    "source": "N113",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-32"
+  },
+  {
+    "source": "N166",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-32"
+  },
+  {
+    "source": "P226",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-32"
+  },
+  {
+    "source": "R141",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-32"
+  },
+  {
+    "source": "S177",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-32"
+  },
+  {
+    "source": "S249",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-32"
+  },
+  {
+    "source": "T180",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-32"
+  },
+  {
+    "source": "M110",
+    "target": "M999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-32"
+  },
+  {
+    "source": "A171",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-33"
+  },
+  {
+    "source": "B225",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-33"
+  },
+  {
+    "source": "B225",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-33"
+  },
+  {
+    "source": "B225",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-33"
+  },
+  {
+    "source": "C337",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-33"
+  },
+  {
+    "source": "F252",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-33"
+  },
+  {
+    "source": "G120",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-33"
+  },
+  {
+    "source": "G232",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-33"
+  },
+  {
+    "source": "P296",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-33"
+  },
+  {
+    "source": "P296",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-33"
+  },
+  {
+    "source": "P296",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-33"
+  },
+  {
+    "source": "S216",
+    "target": "D999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-33"
+  },
+  {
+    "source": "D142",
+    "target": "B999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-37"
+  },
+  {
+    "source": "D187",
+    "target": "B999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-37"
+  },
+  {
+    "source": "D187",
+    "target": "B999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-37"
+  },
+  {
+    "source": "D187",
+    "target": "B999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-37"
+  },
+  {
+    "source": "D187",
+    "target": "B999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-37"
+  },
+  {
+    "source": "P296",
+    "target": "B999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-37"
+  },
+  {
+    "source": "R142",
+    "target": "B999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-37"
+  },
+  {
+    "source": "D187",
+    "target": "B999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-38"
+  },
+  {
+    "source": "E184",
+    "target": "B999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-38"
+  },
+  {
+    "source": "H176",
+    "target": "B999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-38"
+  },
+  {
+    "source": "B366",
+    "target": "B999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-39"
+  },
+  {
+    "source": "B366",
+    "target": "B999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-39"
+  },
+  {
+    "source": "C183",
+    "target": "B999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-39"
+  },
+  {
+    "source": "D157",
+    "target": "B999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-39"
+  },
+  {
+    "source": "D157",
+    "target": "B999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-39"
+  },
+  {
+    "source": "D157",
+    "target": "B999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-39"
+  },
+  {
+    "source": "H204",
+    "target": "B999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-39"
+  },
+  {
+    "source": "H204",
+    "target": "B999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-39"
+  },
+  {
+    "source": "J176",
+    "target": "B999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-39"
+  },
+  {
+    "source": "S159",
+    "target": "B999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-39"
+  },
+  {
+    "source": "S274",
+    "target": "B999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-39"
+  },
+  {
+    "source": "S274",
+    "target": "B999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-39"
+  },
+  {
+    "source": "S418",
+    "target": "B999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-39"
+  },
+  {
+    "source": "W142",
+    "target": "B999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-39"
+  },
+  {
+    "source": "C183",
+    "target": "M999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-39"
+  },
+  {
+    "source": "B220",
+    "target": "B999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-40"
+  },
+  {
+    "source": "B387",
+    "target": "B999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-40"
+  },
+  {
+    "source": "B387",
+    "target": "B999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-40"
+  },
+  {
+    "source": "B387",
+    "target": "B999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-40"
+  },
+  {
+    "source": "B387",
+    "target": "B999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-40"
+  },
+  {
+    "source": "D142",
+    "target": "B999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-40"
+  },
+  {
+    "source": "B387",
+    "target": "B999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-41"
+  },
+  {
+    "source": "C213",
+    "target": "B999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-41"
+  },
+  {
+    "source": "F120",
+    "target": "B999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-41"
+  },
+  {
+    "source": "H108",
+    "target": "B999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-41"
+  },
+  {
+    "source": "H195",
+    "target": "B999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-41"
+  },
+  {
+    "source": "M188",
+    "target": "B999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-41"
+  },
+  {
+    "source": "M395",
+    "target": "B999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-41"
+  },
+  {
+    "source": "M395",
+    "target": "B999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-41"
+  },
+  {
+    "source": "M395",
+    "target": "B999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-41"
+  },
+  {
+    "source": "W291",
+    "target": "B999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-41"
+  },
+  {
+    "source": "B223",
+    "target": "B999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-42"
+  },
+  {
+    "source": "C337",
+    "target": "B999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-42"
+  },
+  {
+    "source": "F252",
+    "target": "B999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-42"
+  },
+  {
+    "source": "H210",
+    "target": "B999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-42"
+  },
+  {
+    "source": "H299",
+    "target": "B999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-42"
+  },
+  {
+    "source": "J165",
+    "target": "B999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-42"
+  },
+  {
+    "source": "J176",
+    "target": "B999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-42"
+  },
+  {
+    "source": "M294",
+    "target": "B999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-42"
+  },
+  {
+    "source": "P153",
+    "target": "B999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-42"
+  },
+  {
+    "source": "P296",
+    "target": "B999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-42"
+  },
+  {
+    "source": "P296",
+    "target": "B999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-42"
+  },
+  {
+    "source": "R158",
+    "target": "B999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-42"
+  },
+  {
+    "source": "R216",
+    "target": "B999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-42"
+  },
+  {
+    "source": "S404",
+    "target": "B999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-42"
+  },
+  {
+    "source": "W214",
+    "target": "B999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-42"
+  },
+  {
+    "source": "W214",
+    "target": "B999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-42"
+  },
+  {
+    "source": "W215",
+    "target": "B999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-42"
+  },
+  {
+    "source": "B134",
+    "target": "B999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-43"
+  },
+  {
+    "source": "F120",
+    "target": "B999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-43"
+  },
+  {
+    "source": "G235",
+    "target": "B999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-43"
+  },
+  {
+    "source": "M395",
+    "target": "B999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-43"
+  },
+  {
+    "source": "S206",
+    "target": "B999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-43"
+  },
+  {
+    "source": "S249",
+    "target": "B999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-43"
+  },
+  {
+    "source": "E187",
+    "target": "B999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-44"
+  },
+  {
+    "source": "J147",
+    "target": "B999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-44"
+  },
+  {
+    "source": "J157",
+    "target": "B999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-44"
+  },
+  {
+    "source": "M129",
+    "target": "B999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-44"
+  },
+  {
+    "source": "M306",
+    "target": "B999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-44"
+  },
+  {
+    "source": "W142",
+    "target": "B999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-44"
+  },
+  {
+    "source": "E189",
+    "target": "B999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-45"
+  },
+  {
+    "source": "E189",
+    "target": "B999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-45"
+  },
+  {
+    "source": "E189",
+    "target": "B999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-45"
+  },
+  {
+    "source": "E189",
+    "target": "B999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-45"
+  },
+  {
+    "source": "E189",
+    "target": "B999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-45"
+  },
+  {
+    "source": "S373",
+    "target": "B999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-45"
+  },
+  {
+    "source": "A199",
+    "target": "B999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-47"
+  },
+  {
+    "source": "W214",
+    "target": "B999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-47"
+  },
+  {
+    "source": "W214",
+    "target": "B999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-47"
+  },
+  {
+    "source": "W214",
+    "target": "B999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-47"
+  },
+  {
+    "source": "A189",
+    "target": "B999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-52"
+  },
+  {
+    "source": "A213",
+    "target": "B999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-52"
+  },
+  {
+    "source": "W153",
+    "target": "B999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-52"
+  },
+  {
+    "source": "P296",
+    "target": "M999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-52"
+  },
+  {
+    "source": "A149",
+    "target": "B999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-53"
+  },
+  {
+    "source": "A149",
+    "target": "B999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-53"
+  },
+  {
+    "source": "A149",
+    "target": "B999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-53"
+  },
+  {
+    "source": "A149",
+    "target": "B999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-53"
+  },
+  {
+    "source": "E194",
+    "target": "B999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-53"
+  },
+  {
+    "source": "F243",
+    "target": "B999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-53"
+  },
+  {
+    "source": "M208",
+    "target": "B999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-53"
+  },
+  {
+    "source": "P296",
+    "target": "B999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-53"
+  },
+  {
+    "source": "P296",
+    "target": "B999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-53"
+  },
+  {
+    "source": "P296",
+    "target": "B999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-53"
+  },
+  {
+    "source": "P296",
+    "target": "B999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-53"
+  },
+  {
+    "source": "P296",
+    "target": "B999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-53"
+  },
+  {
+    "source": "B420",
+    "target": "B999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-54"
+  },
+  {
+    "source": "C164",
+    "target": "B999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-54"
+  },
+  {
+    "source": "E148",
+    "target": "B999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-54"
+  },
+  {
+    "source": "E148",
+    "target": "B999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-54"
+  },
+  {
+    "source": "E148",
+    "target": "B999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-54"
+  },
+  {
+    "source": "E148",
+    "target": "B999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-54"
+  },
+  {
+    "source": "E148",
+    "target": "B999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-54"
+  },
+  {
+    "source": "E148",
+    "target": "B999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-54"
+  },
+  {
+    "source": "F120",
+    "target": "B999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-54"
+  },
+  {
+    "source": "G256",
+    "target": "B999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-54"
+  },
+  {
+    "source": "M110",
+    "target": "B999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-54"
+  },
+  {
+    "source": "M251",
+    "target": "B999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-54"
+  },
+  {
+    "source": "P291",
+    "target": "B999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-54"
+  },
+  {
+    "source": "P296",
+    "target": "B999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-54"
+  },
+  {
+    "source": "P311",
+    "target": "B999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-54"
+  },
+  {
+    "source": "P344",
+    "target": "B999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-54"
+  },
+  {
+    "source": "R142",
+    "target": "B999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-54"
+  },
+  {
+    "source": "S370",
+    "target": "B999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-54"
+  },
+  {
+    "source": "T190",
+    "target": "B999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-54"
+  },
+  {
+    "source": "T190",
+    "target": "B999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-54"
+  },
+  {
+    "source": "W142",
+    "target": "B999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-54"
+  },
+  {
+    "source": "W214",
+    "target": "B999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-54"
+  },
+  {
+    "source": "D183",
+    "target": "B999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-55"
+  },
+  {
+    "source": "M250",
+    "target": "B999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-55"
+  },
+  {
+    "source": "M250",
+    "target": "B999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-55"
+  },
+  {
+    "source": "M375",
+    "target": "B999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-55"
+  },
+  {
+    "source": "S282",
+    "target": "B999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-55"
+  },
+  {
+    "source": "S282",
+    "target": "B999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-55"
+  },
+  {
+    "source": "W160",
+    "target": "B999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-55"
+  },
+  {
+    "source": "W214",
+    "target": "B999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-55"
+  },
+  {
+    "source": "W214",
+    "target": "B999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-55"
+  },
+  {
+    "source": "W214",
+    "target": "B999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-55"
+  },
+  {
+    "source": "W215",
+    "target": "B999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-55"
+  },
+  {
+    "source": "E148",
+    "target": "B999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-56"
+  },
+  {
+    "source": "E148",
+    "target": "B999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-56"
+  },
+  {
+    "source": "E148",
+    "target": "B999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-56"
+  },
+  {
+    "source": "E148",
+    "target": "B999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-56"
+  },
+  {
+    "source": "E148",
+    "target": "B999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-56"
+  },
+  {
+    "source": "H334",
+    "target": "B999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-56"
+  },
+  {
+    "source": "M375",
+    "target": "B999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-56"
+  },
+  {
+    "source": "W153",
+    "target": "B999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-56"
+  },
+  {
+    "source": "R163",
+    "target": "M999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-57"
+  },
+  {
+    "source": "G232",
+    "target": "M999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-70"
+  },
+  {
+    "source": "P296",
+    "target": "M999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-72"
+  },
+  {
+    "source": "D185",
+    "target": "M999",
+    "url": "https://diglib.amphilsoc.org/islandora/object/text%3A266513-77"
+  }
+]
+}
